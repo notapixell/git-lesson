@@ -1,4 +1,5 @@
 Lİmonata:
 	1. su
 	2. limon
-	3 nane
+	3. nane
+	4. şeker
